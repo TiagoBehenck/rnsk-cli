@@ -1,5 +1,5 @@
 {
-  "name": "rnsk-cli",
+  "name": "@TiagoBehenck/rnsk-cli",
   "version": "0.0.1",
   "type": "module",
   "description": "A CLI tool that create a React Native App with templates, dependencies and scripts.",
@@ -7,6 +7,9 @@
   "bin": {
     "rnsk-cli": "./dist/index.js"
   },
+  "author": "Tiago Behenck",
+  "repository": "https://github.com/TiagoBehenck/rnsk-cli",
+  "homepage": "https://github.com/TiagoBehenck/rnsk-cli/blob/main/readme.md",
   "scripts": {
     "build": "npx tsc",
     "format:check": "prettier --check .",
