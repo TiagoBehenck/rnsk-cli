@@ -1,5 +1,5 @@
 {
-  "name": "@TiagoBehenck/rnsk-cli",
+  "name": "@behenck/rnsk-cli",
   "version": "0.0.1",
   "type": "module",
   "description": "A CLI tool that create a React Native App with templates, dependencies and scripts.",
